@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
-  <Source Uri="https://github.com/dotnet/dotnet" Mapping="fsharp" Sha="ad8565092bbfdd5c8b4a94a718d10b2d394f7aee" BarId="268384" />
+  <Source Uri="https://github.com/maestro-auth-test/dotnet" Mapping="fsharp" Sha="e42820406badad583af23b58290f9c0c061de975" BarId="243" />
   <ProductDependencies>
     <Dependency Name="Microsoft.SourceBuild.Intermediate.source-build-reference-packages" Version="9.0.0-alpha.1.25223.3">
       <Uri>https://github.com/dotnet/source-build-reference-packages</Uri>
